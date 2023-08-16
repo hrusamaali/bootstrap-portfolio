@@ -1,0 +1,82 @@
+#nav-bar {
+  margin-left: 79%;
+  width: 5%;
+}
+
+#nav-contain {
+  display: flex;
+  width: 90%;
+}
+
+#scrollspy-sec {
+  display: flex;
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  border: 1px solid;
+}
+
+#list-example {
+  width: 200%;
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+
+#scrollspy-id {
+  height: 200px;
+  overflow: auto;
+}
+
+#card-sec {
+  margin-top: 2%;
+  margin-left: 2%;
+  width: 18rem;
+}
+
+#button-sec {
+  margin-top: 2%;
+}
+
+#grid-sec {
+  margin-top: 2%;
+  background-color: #e5e5e5;
+}
+
+.container {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.row {
+  display: flex;
+  margin: 10px 0;
+}
+
+.col {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.col:nth-child(1) {
+  background-color: #f2f2f2;
+}
+
+.col:nth-child(2) {
+  background-color: #e0e0e0;
+}
+
+.col:nth-child(3) {
+  background-color: #d0d0d0;
+}
+
+#click-button {
+  margin: 2%;
+}
+
+#form-sec {
+  margin: 0 2% 2% 2%;
+}
