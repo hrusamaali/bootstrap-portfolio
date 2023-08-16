@@ -48,13 +48,11 @@
   border: 1px solid #ccc;
 }
 
-/* Style for rows */
 .row {
   display: flex;
   margin: 10px 0;
 }
 
-/* Style for columns */
 .col {
   flex: 1;
   padding: 10px;
@@ -62,7 +60,6 @@
   text-align: center;
 }
 
-/* Additional styling for specific columns */
 .col:nth-child(1) {
   background-color: #f2f2f2;
 }
